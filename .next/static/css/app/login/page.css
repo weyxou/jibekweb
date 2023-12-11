@@ -1,0 +1,102 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./components/nav/nav.module.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.nav_nav__Eu8Uu {
+  width: 300px;
+  background-color: #6900b5;
+  color: #fff;
+  padding: 20px;
+  border-radius: 15px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.nav_start__v6rHs {
+  margin-top: -40px;
+}
+
+.nav_center__TwSsX {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+}
+.nav_center__TwSsX p {
+  opacity: 0.5;
+}
+.nav_center__TwSsX p:hover {
+  color: #fff;
+  opacity: 1;
+}
+
+.nav_end___nkV2 {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+}
+.nav_end___nkV2 p {
+  opacity: 0.5;
+}
+.nav_end___nkV2 p:hover {
+  color: #fff;
+  opacity: 1;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./app/login/login.module.scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.login_cont1__3MndS {
+  height: 550px;
+}
+
+.login_login__g33Y1 {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 50px;
+}
+.login_login__g33Y1 h2 {
+  color: #6900b5;
+  text-align: center;
+}
+.login_login__g33Y1 form {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.login_login__g33Y1 form label {
+  display: flex;
+  flex-direction: column;
+  color: #6900b5;
+}
+.login_login__g33Y1 form label input {
+  padding: 5px;
+  border: 1px solid #6900b5;
+  border-radius: 4px;
+}
+.login_login__g33Y1 form button {
+  background-color: #9500ff;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+  opacity: 0.5;
+}
+.login_login__g33Y1 form button:hover {
+  background-color: #7800a7;
+  opacity: 1;
+  color: #fff;
+}
+.login_login__g33Y1 p {
+  color: #ffffff;
+}
